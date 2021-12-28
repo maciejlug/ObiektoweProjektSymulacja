@@ -1,7 +1,7 @@
 # ObiektoweProjektSymulacja
 
 Brak funkcji:
--zatrzymanie symulacji
+-zatrzymanie symulacji \n
 -czesciowego sledzenia statystyk
 -brak drugiej mapy
 -wybranie jednej z 2 zasad ewolucyjnych
